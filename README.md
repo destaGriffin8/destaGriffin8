@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @destaGriffin8
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R, Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me destacode@gmail.com
 
 <!---
